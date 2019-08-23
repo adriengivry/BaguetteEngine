@@ -7,3 +7,8 @@ Here is a draft of the current architecture I imagined for Baguette Engine. It i
 
 ![Software architecture](Docs/UML.svg "Software architecture")
 <i>Source file: Docs/UML.svg</i>
+
+## Goal
+Here is the rendering level that this rendering engine is targeting:
+![Goal](Docs/Goal.jpeg "Goal")
+<i>Source: Google Filament : https://github.com/google/filament</i>
